@@ -10,6 +10,6 @@ Its simply something that I have no idea how to do. Exe based apps will be simpl
 
 Also if you do wish to request a game, follow my instructions on my "Compiled Flash Games" Repository to request a game. Please make sure the game is atleast a bit appropriate, and isn't a paid game like MAD2.
 
-## Current Release: V1.0 (Reversed)
+## Current Release: V1.1 Beta
 
-## Last Major Update: V1.0 (7/22/2019)
+## Last Major Update: V1.1 (7/23/2019) "Tooltip update"
