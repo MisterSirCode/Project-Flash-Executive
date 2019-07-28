@@ -15,15 +15,17 @@ Also if you do wish to request a game, follow my instructions on my "Compiled Fl
 ## Last Major Update: V1.2 Beta (7/27/2019) "The Merging"
 
 
+
+
 History:
 
 1.2.3 - Changed Font of Download Buttons, Simplified them, and Changed the symbol
 1.2.2 - Expanded Game Names for easier Downloading.
 1.2.1 - Added Game Downloads
-### 1.2 - Merged FlatUI.dll and EXE Successfully
-### 1.1 - Tooltips Update
+#### 1.2 - Merged FlatUI.dll and EXE Successfully
+#### 1.1 - Tooltips Update
 1.0.4 - Reverted some things to 1.0
-### 1.0.3 - Failed Merging of the binary (exe and dll)
-### 1.0.2 - Added 4 Games, Fixed Link Errors
-### 1.0.1 - First UI Release / First Test App
-### 1.0 - First Release
+#### 1.0.3 - Failed Merging of the binary (exe and dll)
+#### 1.0.2 - Added 4 Games, Fixed Link Errors
+#### 1.0.1 - First UI Release / First Test App
+#### 1.0 - First Release
