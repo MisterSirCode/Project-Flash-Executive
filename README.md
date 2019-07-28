@@ -20,7 +20,9 @@ Also if you do wish to request a game, follow my instructions on my "Compiled Fl
 History:
 
 1.2.3 - Changed Font of Download Buttons, Simplified them, and Changed the symbol
+
 1.2.2 - Expanded Game Names for easier Downloading.
+
 1.2.1 - Added Game Downloads
 #### 1.2 - Merged FlatUI.dll and EXE Successfully
 #### 1.1 - Tooltips Update
